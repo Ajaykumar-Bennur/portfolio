@@ -3,7 +3,7 @@ body{
     background-image: url('http://1.bp.blogspot.com/-DcLFSqc9-pE/TcwhHltYMHI/AAAAAAAACQk/f83I791s0V0/s1600/raghu-lilies-1920-x-1200-background.jpg');
 }
 #list {
-    padding: 30px;
+    padding: 2rem;
     list-style-type: none;
     background-color: rgb(12, 41, 75);   
     text-decoration: none;
@@ -14,7 +14,7 @@ body{
 .para{
     display: block;
     background-color:rgb(142, 214, 59); width: fit-content;
-    padding: 10px;
+    padding: 1rem;
     color: rgb(44, 68, 139);
     text-decoration: none;
     border: 1px solid black;
